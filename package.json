@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-conference-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmq291/full-stack-conference-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmq291/full-stack-conference-app/issues"
+  },
+  "homepage": "https://github.com/xmq291/full-stack-conference-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
